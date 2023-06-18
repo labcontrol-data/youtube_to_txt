@@ -25,7 +25,3 @@ More information
 ================
 
 * For more information about the data, visit the author's page: [Prof. Alessandro N. Vargas](http://www.anvargas.com). You are welcome to help improving the code.
-```
-
-
-
