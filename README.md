@@ -10,7 +10,7 @@
 About
 ============
 
-This page provides information about the code that converts Youtube videos to text (txt). Access Python code here
+This page provides information about the code that converts Youtube videos to text (txt). Access [**Python code here**](https://raw.githubusercontent.com/labcontrol-data/youtube_to_txt/main/code/recognizeTextYoutube.py).
 
 
 References
