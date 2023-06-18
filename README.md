@@ -12,16 +12,14 @@ About
 
 This page provides information about the code that converts Youtube videos to text (txt). Access Python code here
 
-References:
-https://github.com/lablab-ai/How-to-use-Whisper-to-transcribe-a-YouTube-video-Tutorial
-https://dev.to/zirkelc/automatically-transcribe-youtube-videos-with-openai-whisper-1856
-https://www.mlq.ai/openai-whisper-gpt-3-fine-tuning-youtube-video/
-https://harishgarg.com/writing/easily-transcribe-youtube-videos-with-openai-whisper/https://medium.com/nlplanet/transcribing-youtube-videos-with-whisper-in-a-few-lines-of-code-f57f27596a55
 
-
-Python
+References
 ------
-  1. Run `load xxx-maindata.mat`.
+  1. (https://github.com/lablab-ai/How-to-use-Whisper-to-transcribe-a-YouTube-video-Tutorial)
+  2. https://dev.to/zirkelc/automatically-transcribe-youtube-videos-with-openai-whisper-1856
+  3. https://www.mlq.ai/openai-whisper-gpt-3-fine-tuning-youtube-video/
+  4. https://harishgarg.com/writing/easily-transcribe-youtube-videos-with-openai-whisper/
+  5. https://medium.com/nlplanet/transcribing-youtube-videos-with-whisper-in-a-few-lines-of-code-f57f27596a55
 
 More information
 ================
